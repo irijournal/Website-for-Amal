@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CRGD//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:environment-day-dialogue-coast@irijournal.github.io
+DTSTAMP:20261024T210516Z
+DTSTART:20260605T043000Z
+DTEND:20260605T070000Z
+SUMMARY:World Environment Day Dialogue: Living with a Changing Coast
+DESCRIPTION:A dialogue held in a coastal community\, bringing fishworkers\
+ , local representatives\, engineers and researchers together to discuss er
+ osion and protection.\n\nhttps://irijournal.github.io/Website-for-Amal/eve
+ nts/environment-day-dialogue-coast/
+LOCATION:[Coastal community hall]\, Thiruvananthapuram
+URL:https://irijournal.github.io/Website-for-Amal/events/environment-day-d
+ ialogue-coast/
+END:VEVENT
+END:VCALENDAR

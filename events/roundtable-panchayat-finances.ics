@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CRGD//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:roundtable-panchayat-finances@irijournal.github.io
+DTSTAMP:20261024T210516Z
+DTSTART:20261114T050000Z
+DTEND:20261114T073000Z
+SUMMARY:Roundtable: Panchayat Finances After Three Decades
+DESCRIPTION:Elected representatives\, officials and researchers discuss th
+ e findings of CRGD's report on local government finances\, and what reform
+ s should come next.\n\nhttps://irijournal.github.io/Website-for-Amal/event
+ s/roundtable-panchayat-finances/
+LOCATION:CRGD office\, Pulimoodu\, Thiruvananthapuram
+URL:https://irijournal.github.io/Website-for-Amal/events/roundtable-pancha
+ yat-finances/
+END:VEVENT
+END:VCALENDAR

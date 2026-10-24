@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CRGD//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:budget-decoded-2026@irijournal.github.io
+DTSTAMP:20261024T210516Z
+DTSTART:20260321T120000Z
+DTEND:20260321T133000Z
+SUMMARY:Budget Decoded 2026
+DESCRIPTION:A public lecture explaining the state budget in plain language
+ \, followed by an open question and answer session.\n\nhttps://irijournal.
+ github.io/Website-for-Amal/events/budget-decoded-2026/
+LOCATION:[Venue name]\, Thiruvananthapuram
+URL:https://irijournal.github.io/Website-for-Amal/events/budget-decoded-20
+ 26/
+END:VEVENT
+END:VCALENDAR
